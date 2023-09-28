@@ -1,0 +1,53 @@
+{
+  "theme": {
+    "name": "default",
+    "author": "Raf",
+    "version": 1.0
+  },
+  "slot1": {
+    "x": 0,
+    "y": 139
+  },
+  "slot2": {
+    "x": 0,
+    "y": 333
+  },
+  "loading_ball":{
+    "enable": true,
+    "x": true, 
+    "y": true
+  },
+  "loading_logo":{
+    "enable": true,
+    "x": 250,
+    "y": 100
+  },
+  "Select_Text": {
+    "enable": true,
+    "x": 395,
+    "y": 205
+  },
+  "Back_Text": {
+    "enable": true,
+    "x": 559,
+    "y": 407    
+  },
+  "Back_Text_info": {
+    "enable": true,
+    "x": 528,
+    "y": 290   
+  },
+  "Background_Image": "Background.png",
+  "main_interface": "main_interface.png",
+  "config_int": "config_interface.png",
+  "alternative_interface": "alternative_interface.png",
+  "no_icon": "no_icon.png",
+  "pad_triangle": "pad_triangle.png",
+  "information_interface": "information_interface.png",
+  "background_loading": "Background_loading.png",
+  "game_name": {
+    "enable": false,
+    "x": 0,
+    "y": 0
+  }
+}
