@@ -7,21 +7,11 @@ Browser Arcade é um projeto que traz os clássicos jogos de navegador para o Pl
 
 [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv)
 
-<br>
-<br>
-
 [Discord](https://discord.gg/emsqjW6y3d)
 
-<br>
-<br>
-
 [YouTube](https://youtube.com/@EclipseBladeStudio?si=unrqXo_Xek4PV49g)
-<br>
-<br>
 
 [Site eclipse blade ](https://eclipseblade.6te.net)
-<br>
-<br>
 
 [Site BROWSER ARCADE](https://browserarcade.freevar.com)
 
