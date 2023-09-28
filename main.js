@@ -2,7 +2,7 @@
 //Criador:Davi
 //Designer: Raf
 //Tester: YgorSan
-
+//programador 2: NGM MODS
 //importando sistemas
 import { games } from "./Games/GameList.js";
 import { GoBrowser, debug ,GoBrowserPS2 } from "./Assets/sys.js";
