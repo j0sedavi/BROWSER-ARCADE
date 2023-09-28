@@ -3,7 +3,7 @@
 //Designer: Raf
 //Tester: YgorSan
 //programador 2: NGM MODS
-//themes: Saymon
+//themes: Saimon
 //importando sistemas
 import { games } from "./Games/GameList.js";
 import { GoBrowser, debug ,GoBrowserPS2 } from "./Assets/sys.js";
@@ -236,9 +236,13 @@ function initialize() {
   font.scale = 0.7;
 }
 function setCurrentImagesScreen(screen_value) {
-  if(screen_value !== null) {
-    imagesList_current = new ImageList();
+  if(screen_value == null) {
+    return;
   }
+  imagesList_current = null;
+  current_Images = null;
+  std.gc();
+  imagesList_current = new ImageList();
   switch(screen_value) {
     case 0: 
       current_Images = {
