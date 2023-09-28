@@ -3,6 +3,7 @@
 //Designer: Raf
 //Tester: YgorSan
 //programador 2: NGM MODS
+//themes: Saymon
 //importando sistemas
 import { games } from "./Games/GameList.js";
 import { GoBrowser, debug ,GoBrowserPS2 } from "./Assets/sys.js";
